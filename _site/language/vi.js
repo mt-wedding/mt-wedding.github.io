@@ -1,6 +1,6 @@
 var language_vi = {
-    header_groom_name: "Đức Tuấn",
-    header_bride_name: "Mỹ Dung",
+    header_groom_name: "Thành Thông",
+    header_bride_name: "Trúc My",
     menu_language: "Ngôn Ngữ",
     name_placeholder: "Tên Bạn*",
     email_placeholder: "Email Bạn*",
@@ -22,7 +22,7 @@ var language_vi = {
     events_rsvp_error: "Vui lòng chọn sự kiện tham dự",
     sendemail_rsvp_error: "Vui lòng xác nhận",
     rsvp_submit: "Gửi",
-    rsvp_success: "Đức Tuấn và Mỹ Dung cảm ơn đã trả lời 🥰🥰",
+    rsvp_success: "Trúc My và Thành Thông cảm ơn đã trả lời 🥰🥰",
     rsvp_error: "Đã có lỗi xảy ra. Vui lòng thử lại.",
     see_location: "Xem Bản Đồ",
     date_first_meet: "05/10/2017 (Sài Gòn)",

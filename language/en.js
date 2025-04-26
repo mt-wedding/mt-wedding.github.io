@@ -1,6 +1,6 @@
 var language_en = {
-    header_groom_name: "Đức Tuấn",
-    header_bride_name: "Mỹ Dung",
+    header_groom_name: "Thành Thông",
+    header_bride_name: "Trúc My",
     menu_language: "Languages",
     name_placeholder: "Your Name*",
     email_placeholder: "Your Email*",
@@ -22,7 +22,7 @@ var language_en = {
     events_rsvp_error: "Select your event list",
     sendemail_rsvp_error: "Please confirm this",
     rsvp_submit: "Send",
-    rsvp_success: "Đức Tuấn và Mỹ Dung thank you for the answer 🥰🥰",
+    rsvp_success: "Trúc My và Thành Thông thank you for the answer 🥰🥰",
     rsvp_error: "An error occurred. Please try again later.",
     see_location: "See Location On Map",
     date_first_meet: "Oct 5, 2017 (Saigon, Vietnam)",
