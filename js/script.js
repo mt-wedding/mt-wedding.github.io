@@ -557,7 +557,7 @@
                 $("#loader").css("display", "inline-block");
                 $.ajax({
                     type: "POST",
-                    url: "https://script.google.com/macros/s/AKfycbytLV5hDYt5BKX2NQdfm46TxPCgkYt12GAMDpkFnklPYuIiQG4ZJGWudOcgkuv9IpGsIg/exec",
+                    url: "https://script.google.com/macros/s/AKfycbyZqke7XNfRE4i8-1O6WLRQjon1IH1EnrvXaJIknpqXuopwrsJHU7SZf2WSOvsS2hqx/exec",
                     data: $(form).serialize(),
                     success: function () {
                         $( "#loader").hide();
